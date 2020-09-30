@@ -58,11 +58,11 @@ body {
 	padding:15px 20px;
 	font-size: 1em;
 	text-transform: capitalize;
-	text-shadow: 0 1px 0 #5C2830;
+	text-shadow: 0 2px 0 #5C2830;
 	letter-spacing:0px;
 }
 .nav li.active a {
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 2px 0 #EBEBEB;
 	color:#D13949;
 	background: #E5E5E5;
 	background: -moz-linear-gradient(top, #E5E5E5 0%, #C4C4C4 100%);
@@ -70,7 +70,7 @@ body {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E5E5E5', endColorstr='#C4C4C4',GradientType=0 );
 	-moz-border-radius:5px 5px 0 0;
 	-webkit-border-radius:5px 5px 0 0;
-	border-radius:5px 5px 0 0;
+	border-radius:6px 6px 0 0;
 	box-shadow: inset 0px -2px 4px #9C9797;
 	-webkit-box-shadow: inset 0px -2px 4px #9C9797;
 	-moz-box-shadow: inset 0px -2px 4px #9C9797;
@@ -118,7 +118,7 @@ body {
 	font-size: 2.4em;
 	color: #BA3341;
 	text-transform: uppercase;
-	text-shadow: 0 1px 0 #EBEBEB;
+	text-shadow: 0 2px 0 #EBEBEB;
 	letter-spacing: -1px;
 	line-height: 1.5em;
 }
