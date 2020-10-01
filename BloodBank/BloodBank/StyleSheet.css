@@ -8,20 +8,20 @@
     text-align: center;
     background-color: #e33e4f;
     font-size: 25px;
-    color: white;
+    color: black;
 }
 .lefttext {
     text-align: left;
-    padding-left: 40px;
-    font-size: 15px;
+    padding-left: 41px;
+    font-size: 16px;
 }
 .title {
     
     font-weight:bold;          
     color:#805752;
- font-size: 16px;
+ font-size: 17px;
  text-align: left;
- padding-left: 20px;
+ padding-left: 21px;
 }
 .thead {
      color:#805752;
